@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Client.dir/Chatroom_client.cpp.o  -o Client 

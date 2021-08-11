@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Client" targetName="Client" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="82f0f2ea-0102-44b8-8ac6-fef19e5be498" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/linux网络编程.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chatroom_client.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.16.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.16.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.16.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.16.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.16.3/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.16.3/CompilerIdC/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.16.3/CompilerIdCXX/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Client.dir/CXX.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Client.dir/Chatroom_client.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Client.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Client.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Client.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Client.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Client.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Client.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Client.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Client.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Client" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Client.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/.idea/Server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/Chatroom_server.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/cmake-build-debug/CMakeFiles/3.16.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/cmake-build-debug/CMakeFiles/3.16.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/cmake-build-debug/CMakeFiles/Server.dir/CXX.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/cmake-build-debug/CMakeFiles/Server.dir/Chatroom_server.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/cmake-build-debug/CMakeFiles/Server.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/cmake-build-debug/CMakeFiles/Server.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/cmake-build-debug/CMakeFiles/Server.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/cmake-build-debug/CMakeFiles/Server.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/cmake-build-debug/CMakeFiles/Server.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/cmake-build-debug/CMakeFiles/Server.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/cmake-build-debug/CMakeFiles/Server.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/cmake-build-debug/CMakeFiles/Server.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/cmake-build-debug/Server" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/cmake-build-debug/Server.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linux网络编程练习/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linux网络编程练习/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linux网络编程练习/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linux网络编程练习/.idea/linux网络编程练习.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linux网络编程练习/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linux网络编程练习/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linux网络编程练习/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linux网络编程练习/ClientTest1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linux网络编程练习/ServerTest3.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linux网络编程练习/ServerTest4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linux网络编程练习/ServerTest4.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simpleWebChatRoom/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simpleWebChatRoom/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simpleWebChatRoom/Chatroom_client" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simpleWebChatRoom/Chatroom_client.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simpleWebChatRoom/Chatroom_server" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simpleWebChatRoom/Chatroom_server.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simpleWebChatRoom/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simpleWebChatRoom/cmake-build-debug/CMakeFiles/3.16.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simpleWebChatRoom/cmake-build-debug/CMakeFiles/3.16.3/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simpleWebChatRoom/cmake-build-debug/CMakeFiles/3.16.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simpleWebChatRoom/cmake-build-debug/CMakeFiles/3.16.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simpleWebChatRoom/cmake-build-debug/CMakeFiles/3.16.3/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simpleWebChatRoom/cmake-build-debug/CMakeFiles/3.16.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simpleWebChatRoom/cmake-build-debug/CMakeFiles/3.16.3/CompilerIdC/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simpleWebChatRoom/cmake-build-debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simpleWebChatRoom/cmake-build-debug/CMakeFiles/3.16.3/CompilerIdCXX/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simpleWebChatRoom/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simpleWebChatRoom/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simpleWebChatRoom/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simpleWebChatRoom/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simpleWebChatRoom/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simpleWebChatRoom/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simpleWebChatRoom/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simpleWebChatRoom/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simpleWebChatRoom/cmake-build-debug/CMakeFiles/simpleWebChatRoom.dir/CXX.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simpleWebChatRoom/cmake-build-debug/CMakeFiles/simpleWebChatRoom.dir/Chatroom_client.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simpleWebChatRoom/cmake-build-debug/CMakeFiles/simpleWebChatRoom.dir/Chatroom_server.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simpleWebChatRoom/cmake-build-debug/CMakeFiles/simpleWebChatRoom.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simpleWebChatRoom/cmake-build-debug/CMakeFiles/simpleWebChatRoom.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simpleWebChatRoom/cmake-build-debug/CMakeFiles/simpleWebChatRoom.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simpleWebChatRoom/cmake-build-debug/CMakeFiles/simpleWebChatRoom.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simpleWebChatRoom/cmake-build-debug/CMakeFiles/simpleWebChatRoom.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simpleWebChatRoom/cmake-build-debug/CMakeFiles/simpleWebChatRoom.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simpleWebChatRoom/cmake-build-debug/CMakeFiles/simpleWebChatRoom.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simpleWebChatRoom/cmake-build-debug/CMakeFiles/simpleWebChatRoom.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simpleWebChatRoom/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simpleWebChatRoom/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simpleWebChatRoom/cmake-build-debug/simpleWebChatRoom.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../linux网络编程练习/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../linux网络编程练习/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../linux网络编程练习/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../linux网络编程练习/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../linux网络编程练习/cmake-build-debug/CMakeFiles/linux.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../linux网络编程练习/cmake-build-debug/CMakeFiles/linux.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../linux网络编程练习/cmake-build-debug/CMakeFiles/linux.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../linux网络编程练习/cmake-build-debug/CMakeFiles/linux.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../linux网络编程练习/cmake-build-debug/CMakeFiles/linux.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../linux网络编程练习/cmake-build-debug/CMakeFiles/linux.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../linux网络编程练习/cmake-build-debug/CMakeFiles/linux.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../linux网络编程练习/cmake-build-debug/CMakeFiles/linux.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../linux网络编程练习/cmake-build-debug/CMakeFiles/linux.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../linux网络编程练习/cmake-build-debug/CMakeFiles/linux.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../linux网络编程练习/cmake-build-debug/CMakeFiles/linux.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../linux网络编程练习/cmake-build-debug/CMakeFiles/linux.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../linux网络编程练习/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/../linux网络编程练习/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../linux网络编程练习/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../linux网络编程练习/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../linux网络编程练习/cmake-build-debug/linux.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../linux网络编程练习/cmake-build-debug/linux.cbp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1wZtGCrdbPOCPD0oio0bXNYMvRX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="添加" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\123456\Desktop\linux网络编程\Client" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Client" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Client" TARGET_NAME="Client" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Client" RUN_TARGET_NAME="Client">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="82f0f2ea-0102-44b8-8ac6-fef19e5be498" name="默认更改列表" comment="" />
+      <created>1628677840927</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628677840927</updated>
+      <workItem from="1628677842485" duration="423000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1236" height="163" key="GridCell.Tab.0.bottom" timestamp="1628678264950">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1628678264950" />
+    <state width="1236" height="163" key="GridCell.Tab.0.center" timestamp="1628678264950">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1628678264950" />
+    <state width="1236" height="163" key="GridCell.Tab.0.left" timestamp="1628678264950">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1628678264950" />
+    <state width="1236" height="163" key="GridCell.Tab.0.right" timestamp="1628678264950">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1628678264950" />
+  </component>
+</project>
