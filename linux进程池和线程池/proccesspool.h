@@ -41,7 +41,7 @@ private:
     processpool(int lfd, int pool_size = 8);
 public:
     /* 对外提供的创建进程池的静态公共接口, 保证了一个程序中只有一个进程池实例 */
-    static processpool<T>* create(int lfd, int pool_size)
+    static processpool<T>* create(int lfd, int pool_size = 8)
     {
         if(!m_instance)
         {
